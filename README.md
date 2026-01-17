@@ -496,32 +496,3 @@ docker run -p 8000:8000 dogvscat:latest
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 👨‍💻 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request with improvements or bug fixes.
-
----
-
-## 📧 Contact & Support
-
-For questions, issues, or suggestions:
-- Open an issue on GitHub
-- Contact the project maintainer
-
----
-
-## 🙏 Acknowledgments
-
-- **Kaggle**: For providing the dog and cat classification dataset
-- **TensorFlow/Keras**: For the deep learning framework
-- **MobileNet Team**: For the efficient MobileNetV2 architecture
-- **FastAPI Community**: For the amazing web framework
-
----
-
-**Last Updated**: January 2026  
-**Version**: 1.0  
-**Status**: Production Ready
